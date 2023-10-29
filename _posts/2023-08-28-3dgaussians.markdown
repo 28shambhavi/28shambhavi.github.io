@@ -5,7 +5,7 @@ date:   2023-10-29 22:21:59 +00:00
 image: /images/photo.png
 categories: research
 author: "Shambhavi Singh"
-authors: "Akshaya Kesarimangalam Srinivasan, <strong>Shambhavi Singh</strong>, Geordan Gutow, Howie Choset and Bhaskar Vundurthy"
+authors: "Akshaya Srinivasan, <strong>Shambhavi Singh</strong>, Geordan Gutow, Howie Choset and Bhaskar Vundurthy"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2309.00985
 code: https://github.com/leonidk/fmb-plus
