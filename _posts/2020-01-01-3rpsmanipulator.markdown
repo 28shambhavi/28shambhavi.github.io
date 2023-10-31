@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hierarchical Planning for Long Horizon Multi-agent Collective Construction"
-date:   2023-10-30 00:00:00 +00:00
+title:  ""
+date:   2023-06-15 00:00:00 +00:00
 image: /images/pairwise.png
-categories: research
+categories: 
 author: "Shambhavi Singh"
-authors: "<strong>Shambhavi Singh</strong>, Zejian Huang, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
-venue: "submitted to Internation Conference of Robotics and Automation, Tokyo, Japan"
-website: https://28shambhavi.github.io/hierarchical-macc
+authors: "<strong>Shambhavi Singh</strong>, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
+venue: "Workshop on Future of Constrution, International Conference on Robotics and Automation, London, UK"
+paper: https://construction-robots.github.io/papers/40.pdf
 # code: https://construction-robots.github.io/papers/40.pdf
 # website: https://construction-robots.github.io/papers/40.pdf
 ---
