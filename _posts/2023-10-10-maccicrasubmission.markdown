@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hierarchical Planning for Long Horizon Multi-agent Collective Construction"
-date:   2024-01-01 00:00:00 +00:00
+date:   2023-10-10 00:00:00 +00:00
 image: /images/pairwise.png
 categories: research
 author: "Shambhavi Singh"

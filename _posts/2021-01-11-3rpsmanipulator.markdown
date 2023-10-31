@@ -6,4 +6,4 @@ image: /images/pairwise.png
 categories: bits
 author: "Shambhavi Singh"
 ---
-Research Project under Dr. Ashwin KP at BITS Pilani, Goa. Modeled the dynamics and control of a 3RPS Parallel Manipulator platform. Developed the robot with three linear actuators and an acrylic base. 
+Research Project with Dr. Ashwin KP at BITS Pilani, Goa. Modeled the dynamics and control of a 3RPS Parallel Manipulator platform. Developed the robot with three linear actuators and an acrylic base. 
