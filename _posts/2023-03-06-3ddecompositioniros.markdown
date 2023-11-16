@@ -2,7 +2,7 @@
 layout: post
 title:  "Multi-agent Collective Construction using 3D Decomposition"
 date:   2023-03-06 00:00:00 +00:00
-image: decomposition.png
+image: /decomposition.png
 categories: research
 author: "Shambhavi Singh"
 authors: "Akshaya Srinivasan, <strong>Shambhavi Singh</strong>, Geordan Gutow, Howie Choset and Bhaskar Vundurthy"
