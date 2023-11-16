@@ -2,7 +2,7 @@
 layout: post
 title:  "Development and control of 3RPS Parallel Manipulator System"
 date:   2021-01-11 00:00:00 +00:00
-image: /images/parallel.gif
+image: parallel.gif
 categories: bits
 author: "Shambhavi Singh"
 ---
