@@ -2,7 +2,7 @@
 layout: post
 title:  "Hierarchical Propositional Logic Planning for Multi-Agent Collective Construction"
 date:   2023-06-15 00:00:00 +00:00
-image: /images/pairwise.png
+image: /workshop.png
 categories: research
 author: "Shambhavi Singh"
 authors: "<strong>Shambhavi Singh</strong>, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
