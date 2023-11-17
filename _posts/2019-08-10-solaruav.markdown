@@ -2,7 +2,7 @@
 layout: post
 title:  "Power System Design for Solar UAV"
 date:   2019-08-10 00:00:00 +00:00
-image: /parallel.gif
+image: /abc.jpg
 categories: bits
 author: "Shambhavi Singh"
 ---
