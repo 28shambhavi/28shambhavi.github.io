@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Power System Design for Solar UAV"
+date:   2019-08-10 00:00:00 +00:00
+image: /parallel.gif
+categories: bits
+author: "Shambhavi Singh"
+---
+Designed electrical system which used energy from solar panels mounted atop wings of a fixed-wing model to power on-board sensors. Project won 1st Prize in the Boeing BUILD Competition 2019, out of 82 shortlisted student teams at IIT Bombay, India.
