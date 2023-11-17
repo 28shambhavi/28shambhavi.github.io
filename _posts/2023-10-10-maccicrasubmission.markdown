@@ -2,7 +2,7 @@
 layout: post
 title:  "Hierarchical Planning for Long Horizon Multi-agent Collective Construction"
 date:   2023-10-10 00:00:00 +00:00
-image: /icra_macc.png
+image: /icra_macc.gif
 categories: research
 author: "Shambhavi Singh"
 authors: "<strong>Shambhavi Singh</strong>, Zejian Huang, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
