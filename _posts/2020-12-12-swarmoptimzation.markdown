@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Review of Communication, Task Allocation and Deployment of Multi-Swarm Systems"
-date:   2020-12-12 00:00:00 +00:00
-image: /birds_swarms.jpg
-categories: bits
-author: "Shambhavi Singh"
----
-For a course project on Embedded Systems Design, we review algorithms used in Multi-Swarm Systems, with a focus on Particle Swarm Optimization techniques. In particular, we present a detailed analysis of algorithms for task allocation, communication and grouping for multi-swarm systems.
