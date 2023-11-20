@@ -195,8 +195,8 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat!="research" and forloop.first%}
-          <!-- {% if  %} -->
+          {% if cat!="research" %} 
+          {% if forloop.first %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" title="{{ post.imagetext | default: '' }}" style="width:auto; height:auto; max-width:100%;" />
@@ -243,7 +243,7 @@
               {{ post.excerpt }}
             </td>
           </tr>
-          <!-- {% endif %} -->
+          {% endif %}
           {% endif %}
           {% endfor %}
           {% endfor %}
