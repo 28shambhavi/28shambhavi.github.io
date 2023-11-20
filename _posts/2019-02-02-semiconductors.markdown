@@ -7,7 +7,7 @@ imagetext: "Plot of a Bi-layer Graphene with Yellow Carbon Molecules"
 course: "Physics Dept Research Project - BITS Pilani"
 author: "Shambhavi Singh"
 categories: other
-pdf: /tn/"report_semiconductor_devices.pdf"
+pdf: "https://github.com/28shambhavi/28shambhavi.github.io/blob/main/tn/report_semiconductor_devices.pdf"
 code: "https://github.com/28shambhavi/Quantum-Espresso-DOP"
 ---
 Simulating and visualizing properties of Metals (Al, Cu, Ni, Fe and Ag) and Single and Bi-layer Graphene, implemented in Fortran. 
