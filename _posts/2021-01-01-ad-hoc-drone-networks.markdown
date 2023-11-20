@@ -2,7 +2,7 @@
 layout: post
 title:  "Analysis and Development of Ad-hoc Drone Networks for Disaster Management"
 date:   2021-01-11 00:00:00 +00:00
-image: /images/pairwise.png
+image: /fire_drone.png
 categories: bits
 author: "Shambhavi Singh"
 ---
