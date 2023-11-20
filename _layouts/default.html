@@ -195,8 +195,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat!="research"}
-          <!--Only go through this loop once for each post, dont repeat even if different categories-->
+          {% if cat!="research" %}
           {% if forloop.first %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
