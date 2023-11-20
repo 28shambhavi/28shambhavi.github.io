@@ -4,7 +4,8 @@ title:  "Density Function Theory Experiments for materials in Semiconductor Devi
 date:   2019-02-02 00:00:00 +00:00
 image: /bi_layer_graphene.png
 imagetext: "Plot of a Bi-layer Graphene with Yellow Carbon Molecules"
-categories: "Physics Dept Research Project - BITS Pilani"
+course: "Physics Dept Research Project - BITS Pilani"
 author: "Shambhavi Singh"
+categories: other
 ---
 Simulating and visualizing properties of Metals (Al, Cu, Ni, Fe and Ag) and Single and Bi-layer Graphene, implemented in Fortran. 

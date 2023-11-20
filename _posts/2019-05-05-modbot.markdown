@@ -4,7 +4,8 @@ title:  "Self-Reconfigurable Modular Robots"
 date:   2019-05-05 00:00:00 +00:00
 image: /modbot_dp.jpeg
 imagetext: "Four black and white modules attached in pairs"
-categories: "Robotics Club - BITS Pilani"
+course: "Robotics Club - BITS Pilani"
 author: "Shambhavi Singh"
+categories: other
 ---
 Led mechanical design team to design a novel and secure module-locking mechanism in Solidworks for self-reconfiguration of identical modules. Manufactured using Ultimaker 3D Printer.
