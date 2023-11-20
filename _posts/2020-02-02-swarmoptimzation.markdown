@@ -3,6 +3,7 @@ layout: post
 title:  "Review of Communication, Task Allocation and Deployment of Multi-Swarm Systems"
 date:   2020-02-02 00:00:00 +00:00
 image: /birds_swarms.jpg
+imagetext: "Multiple swarms of birds flying in the sky"
 categories: "Embedded System Design Course Project - BITS Pilani"
 author: "Shambhavi Singh"
 ---

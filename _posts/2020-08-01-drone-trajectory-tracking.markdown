@@ -3,6 +3,7 @@ layout: post
 title:  "Quadcopter Trajectory Tracking"
 date:   2020-08-01 00:00:00 +00:00
 image: /drone.jpeg
+imagetext: "Custom built drone used for autonomous trajectory tracking"
 categories: "Aerodynamics Club, BITS Pilani"
 author: "Shambhavi Singh"
 ---

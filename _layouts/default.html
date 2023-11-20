@@ -195,17 +195,19 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat!="research"}
+          <!--Only go through this loop once for each post, dont repeat even if different categories-->
+          {% if forloop.first %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/tn{{post.image}}" alt="project image" title="{{ post.imagetext | default: '' }}" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               <em>{{post.categories}} {{post.course}}</em>
               <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+              {{ post.date | date: "%Y" }}
 
               <br>
               {% if post.website %}

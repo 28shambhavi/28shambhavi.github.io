@@ -3,6 +3,7 @@ layout: post
 title:  "6 D-O-F Manipulator Arm for Mars Rover"
 date:   2020-05-10 00:00:00 +00:00
 image: /kratos.jpeg
+imagetext: "Mars Rover Robot with manipulator and four wheels in 2019"
 categories: "Mars Rover Team (Kratos) - BITS Pilani"
 author: "Shambhavi Singh"
 ---

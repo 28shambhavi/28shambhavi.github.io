@@ -3,6 +3,7 @@ layout: post
 title:  "Development and control of 3RPS Parallel Manipulator System"
 date:   2021-01-11 00:00:00 +00:00
 image: /parallel.gif
+imagetext: "Gif of parallel robot platform and voltage source in background"
 categories: "Mechanical Dept Research Project - BITS Pilani"
 author: "Shambhavi Singh"
 ---

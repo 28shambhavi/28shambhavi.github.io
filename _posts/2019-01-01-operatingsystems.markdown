@@ -3,6 +3,7 @@ layout: post
 title:  "Hybrid Round-Robin Process Scheduling Algorithm"
 date:   2019-01-01 00:00:00 +00:00
 image: /cpu_scheduling.png
+imagetext: "Graphical representation of a Processor or CPU"
 categories: "Operating Systems Course Project - BITS Pilani"
 author: "Shambhavi Singh"
 ---

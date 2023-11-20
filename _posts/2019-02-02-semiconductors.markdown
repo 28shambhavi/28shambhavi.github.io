@@ -3,6 +3,7 @@ layout: post
 title:  "Density Function Theory Experiments for materials in Semiconductor Devices"
 date:   2019-02-02 00:00:00 +00:00
 image: /bi_layer_graphene.png
+imagetext: "Plot of a Bi-layer Graphene with Yellow Carbon Molecules"
 categories: "Physics Dept Research Project - BITS Pilani"
 author: "Shambhavi Singh"
 ---
