@@ -3,10 +3,11 @@ layout: post
 title:  "6 D-O-F Manipulator Arm for Mars Rover"
 date:   2020-01-01 00:00:00 +00:00
 image: /kratos.jpeg
+code: "https://github.com/28shambhavi/arm_mpc"
 imagetext: "Mars Rover Robot with gripper equipped manipulator system in 2019"
 course: "Mars Rover Team (Kratos) - BITS Pilani"
 author: "Shambhavi Singh"
 categories: other
 
 ---
-Development and inverse kinematic control of end-effector for heavy-object manipulation (carrying loads), and precision manipulation tasks (soil sample testing).
+Development and inverse kinematic control of end-effector for heavy-object manipulation (carrying loads), and precision manipulation tasks (soil sample testing). Also implemented Model Predictive Control of end effector position.

@@ -10,4 +10,4 @@ categories: other
 pdf: "https://28shambhavi.github.io/tn/report_semiconductor_devices.pdf"
 code: "https://github.com/28shambhavi/Quantum-Espresso-DOP"
 ---
-Simulating and visualizing properties of Metals (Al, Cu, Ni, Fe and Ag) and Single and Bi-layer Graphene, implemented in Fortran. 
+Simulating and visualizing properties of Metals (Al, Cu, Ni, Fe and Ag) and Single and Bi-layer Graphene, implemented in Fortran.

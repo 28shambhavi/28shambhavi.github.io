@@ -7,8 +7,7 @@ imagetext: "A structure decomposed in 5 parts"
 categories: research
 author: "Shambhavi Singh"
 authors: "Akshaya Srinivasan, <strong>Shambhavi Singh</strong>, Geordan Gutow, Howie Choset and Bhaskar Vundurthy"
-venue: "Multi-Agent Path Finding Workshop at Association for the Advancement of Artificial Intelligence, Washington DC, USA, 2023, 
-and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, USA, 2023"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, USA, 2023"
 arxiv: https://arxiv.org/abs/2303.07434
 website: https://akshayaks.github.io/
 ---
