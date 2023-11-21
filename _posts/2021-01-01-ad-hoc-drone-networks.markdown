@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analysis and Development of Ad-hoc Drone Networks for Disaster Management"
-date:   2020-01-01 00:00:00 +00:00
+date:   2021-01-01 00:00:00 +00:00
 image: /fire_drone.png
 imagetext: "Graphic of a drone near a forest fire"
 course: "Electrical and Electronics Dept Research Project - BITS Pilani"
