@@ -47,6 +47,7 @@
                 <a href="https://github.com/28shambhavi">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?hl=en&user=PfKG9Q4AAAAJ">Google Scholar</a> &nbsp;/&nbsp;
                 <a href="https://www.linkedin.com/in/shambhavi-singh-14a5b11b0/"> LinkedIn </a>
+                <a href="28shambhavi.github.io/tn/ShambhaviSinghResumeOct23.pdf" target="_blank">CV</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -72,7 +73,7 @@
           {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height: 120px; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -102,7 +103,7 @@
               <a href="{{post.website}}">website</a> /
               {% endif %}
               {% if post.pdf %}
-              <a href="{{post.pdf}}">pdf</a> /
+              <a href="{{post.pdf}}" target="_blank">pdf</a> /
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
@@ -237,7 +238,7 @@
               <a href="{{post.code}}">code</a> /
               {% endif %}
               {% if post.pdf %}
-              <a href="{{post.pdf}}">pdf</a> /
+              <a href="{{post.pdf}}" target="_blank">pdf</a> /
               {% endif %}
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
