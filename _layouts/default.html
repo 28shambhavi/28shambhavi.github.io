@@ -51,7 +51,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="/images/photo.png">
+              <img style="width:100%;max-width:100%" alt="photo of Shambhavi smiling" src="/images/photo.png">
             </td>
           </tr>
         </table>
@@ -72,7 +72,7 @@
           {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height: 120px; max-width:100%;" />
+              <img src="/tn{{post.image}}" alt="{{ post.imagetext | default: '' }}" title="{{ post.imagetext | default: '' }}" style="width:auto; height: 120px; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -205,7 +205,7 @@
           {% if forloop.first %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" title="{{ post.imagetext | default: '' }}" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/tn{{post.image}}" alt="{{ post.imagetext | default: 'project image' }}" title="{{ post.imagetext | default: '' }}" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
