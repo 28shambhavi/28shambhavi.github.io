@@ -35,9 +35,9 @@
                 Shambhavi Singh
               </h1>
               <p>I am a Research Staff with 
-                <a href="http://www.cs.cmu.edu/~choset/" style="color:#00369F;">
-                  <i class="fas fa-howie" aria-hidden="true"></i>
-                  <span class="sr-only">Prof. Howie Choset</span>
+                <a href="http://www.cs.cmu.edu/~choset/" style="color:#00369F;">Prof. Howie Choset
+                  <i class="fas fa-howie" aria-hidden="true">Prof. Howie Choset</i>
+                  <span class="sr-only"></span>
                 </a>
                   at the Biorobotics Lab, 
                   <a href="https://www.ri.cmu.edu/" style="color:#00369F;">
@@ -142,13 +142,17 @@
               <!-- ,{{ post.date | date: "%Y" }} -->
               <br>
               {% if post.arxiv %}
-              <a href="{{post.arxiv}}" style="color:#00369F;">arxiv</a> /
+              <a href="{{post.arxiv}}" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">arxiv</span></a> /
               {% endif %}
               {% if post.video %}
               <a href="{{post.video}}" style="color:#00369F;">video</a> /
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}" style="color:#00369F;">code</a> /
+              <a href="{{post.code}}" style="color:#00369F;">code
+                <i class="fas fa-email" aria-hidden="true" role="link">code</i>
+                <span class="sr-only"></span></a> /
               {% endif %}
               {% if post.poster %}
               <a href="{{post.poster}}" style="color:#00369F;">poster</a> /
@@ -157,13 +161,17 @@
               <a href="{{post.slides}}" style="color:#00369F;">slides</a> /
               {% endif %}
               {% if post.website %}
-              <a href="{{post.website}}" style="color:#00369F;">website</a> /
+              <a href="{{post.website}}" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">website</span></a> /
               {% endif %}
               {% if post.pdf %}
               <a href="{{post.pdf}}" target="_blank" style="color:#00369F;">pdf</a> /
               {% endif %}
               {% if post.paper %}
-              <a href="{{post.paper}}" target="_blank" style="color:#00369F;">paper</a> /
+              <a href="{{post.paper}}" target="_blank" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">paper</span></a> /
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}" style="color:#00369F;">youtube</a> /
@@ -275,10 +283,14 @@
 
               <br>
               {% if post.website %}
-              <a href="{{post.website}}" style="color:#00369F;">website</a> /
+              <a href="{{post.website}}" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">website</span></a> /
               {% endif %}
               {% if post.paper %}
-              <a href="{{post.paper}}" target="_blank" style="color:#00369F;">paper</a> /
+              <a href="{{post.paper}}" target="_blank" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">paper</span></a> /
               {% endif %}
               {% if post.patent %}
               <a href="{{post.patent}}" style="color:#00369F;">patent</a> /
@@ -296,13 +308,21 @@
               <a href="{{post.video2}}" style="color:#00369F;">video #2</a> /
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}" style="color:#00369F;">code</a> /
+              <a href="{{post.code}}" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">code</span></a> /
               {% endif %}
               {% if post.pdf %}
-              <a href="{{post.pdf}}" target="_blank" style="color:#00369F;">pdf</a> /
+              <a href="{{post.pdf}}" target="_blank" style="color:#00369F;">
+                <i class="fas fa-email" aria-hidden="true" role="link"></i>
+                <span class="sr-only">pdf</span>
+              </a> /
               {% endif %}
               {% if post.report %}
-              <a href="{{post.report}}" target="_blank" style="color:#00369F;">report</a> /
+              <a href="{{post.report}}" target="_blank" style="color:#00369F;">
+                <i class="fas fa-report" aria-hidden="true" role="link"></i>
+                <span class="sr-only">report</span>
+              </a> /
               {% endif %}
               {% if post.poster %}
               <a href="{{post.poster}}" style="color:#00369F;">poster</a> /
