@@ -10,4 +10,4 @@ authors: "<strong>Shambhavi Singh</strong>, Akshaya Srinivasan, Geordan Gutow, B
 venue: "Workshop on Future of Constrution, International Conference on Robotics and Automation, London, UK, 2023"
 paper: https://construction-robots.github.io/papers/40.pdf
 ---
-Given a modular structure and a set of homogeneous robots that can pick-up and place blocks, we aim to task the robots to collectively construct the structure. To this end, we develop a hierarchical planner that employs temporal logic to first plan at the task-level, then parallelizes the task-level plan for multiple agents, and finally finds paths for agents to execute the tasks.
+We task teams of robots to collectively construct a modular structure composed of blocks. We employ temporal logic to plan at the task-level (robots pick-up and place blocks), then parallelize and find paths for multiple agents (robots move while carrying blocks) to execute the tasks.
