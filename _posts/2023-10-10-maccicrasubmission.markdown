@@ -7,7 +7,7 @@ imagetext: "Animation of structure being built"
 categories: research
 author: "Shambhavi Singh"
 authors: "<strong>Shambhavi Singh</strong>, Zejian Huang, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
-venue: "accepted at International Conference of Robotics and Automation (ICRA), Tokyo, Japan, 2024"
+venue: "<span class="highlight">accepted at International Conference of Robotics and Automation (ICRA), Tokyo, Japan, 2024</span>"
 website: https://28shambhavi.github.io/hierarchical_macc
 paper: 
 # code: https://construction-robots.github.io/papers/40.pdf
