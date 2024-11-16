@@ -9,7 +9,7 @@ author: "Shambhavi Singh"
 authors: "<strong>Shambhavi Singh</strong>, Zejian Huang, Akshaya Srinivasan, Geordan Gutow, Bhaskar Vundurthy and Howie Choset"
 venue: "<strong>accepted at International Conference of Robotics and Automation (ICRA), Tokyo, Japan, 2024</strong>"
 website: https://28shambhavi.github.io/hierarchical_macc
-paper: 
+paper: https://ieeexplore.ieee.org/document/10611496 
 # code: https://construction-robots.github.io/papers/40.pdf
 # website: https://construction-robots.github.io/papers/40.pdf
 ---
